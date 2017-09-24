@@ -1,0 +1,45 @@
+
+.row {
+  background-color: gray;
+  margin: 10px;
+  border-style: dashed;
+  border-color: darkgray;
+  border-radius: 50px
+}
+#menu {
+  margin-top: 6px;
+  position: absolute;
+  right: 50px;
+}
+footer {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+html, body {
+  background-color: bisque;
+}
+.myText {
+  font-family: Times;
+  color: coral;
+}
+#head {
+  margin-left:20px;
+}
+#header {
+  margin-top: 50px;
+}
+img {
+  border-radius: 50%;
+  height: 100px;
+}
+.online {
+  background-color: darkolivegreen;
+}
+.offline {
+  background-color: indianred;
+}
+.unavailable {
+  background-color: lightgrey;
+}
